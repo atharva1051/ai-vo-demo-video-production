@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01_intro",
+    "feature": "Product Introduction",
+    "original_timerange": [0.0, 15.0],
+    "text": "Welcome to our product demo. In this walkthrough, we explore the core architecture and feature set."
+  },
+  {
+    "id": "02_core_features",
+    "feature": "Feature Walkthrough",
+    "original_timerange": [15.0, 45.0],
+    "text": "Here we see the dashboard metrics updating in real time, giving developers complete visibility into system performance."
+  },
+  {
+    "id": "03_outro",
+    "feature": "Conclusion & Next Steps",
+    "original_timerange": [45.0, 55.0],
+    "text": "Get started today by downloading the extension directly from the marketplace."
+  }
+]

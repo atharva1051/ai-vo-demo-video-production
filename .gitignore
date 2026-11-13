@@ -1,0 +1,34 @@
+# Project demo subfolders (recordings, outputs, and local project deliverables)
+finops-lens/
+projects/
+demos/
+
+# Artifacts
+artifacts/
+**/artifacts/
+
+# Media files (raw recordings and rendered video/audio)
+*.mov
+*.mp4
+*.m4v
+*.avi
+*.mkv
+*.wav
+*.mp3
+
+# Temporary and render files
+.temp_*
+*.tmp
+frames/
+.frames/
+frames_dense/
+output_segments/
+demo_review_frames/
+
+# OS and Python artifacts
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
